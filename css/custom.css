@@ -1,0 +1,42 @@
+html,body{
+	height: 100%;
+
+}
+table td{
+	background-color: white;
+	opacity:0.8;
+}
+
+.table123 a{
+	text-decoration: none;
+	color:purple;
+}
+#btn-1,#btn-2,.check1{
+	margin-top:15px;
+}
+.heading123{
+	padding-top:30%;
+}
+.background_wallpaper{
+	background: url('../images/books1.jpg') no-repeat;
+	height:100%;
+	opacity:0.9;
+}
+.opacity{
+	opacity:0.85555;
+}
+#main-head{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
